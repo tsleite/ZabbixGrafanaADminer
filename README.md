@@ -10,6 +10,12 @@ Starting services:
 - Mysql Server
 - ADMiner
 
+# Build Services;
+docker-compose up -d 
+
+# Destroy Services;
+docker-compose down -v
+
 
 
 ```
